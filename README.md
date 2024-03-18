@@ -9,7 +9,7 @@ without a machine learning background;
 * the description of publicly available vision-language
 datasets, encompassing medical image-text pairs or question-answer
 pairs related to medical images;
-* the detailed description of metrics employed for evaluating VLMs on report generation and visual question answering tasks;
+* the detailed description of metrics employed for evaluating VLMs on RG and VQA tasks;
 * the discussion of current challenges in the field and various
 potential research directions that could significantly shape the future
 of medical VLMs.
