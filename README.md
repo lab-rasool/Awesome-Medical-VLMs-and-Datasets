@@ -34,6 +34,7 @@ of medical VLMs.
 | MUMC | + | - | [Li et al.](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_36) | [GitHub](https://github.com/pengfeiliHEU/MUMC) | 2023 |
 | Med-Flamingo | + | - | [Moor et al.](https://arxiv.org/abs/2307.15189) | [GitHub](https://github.com/snap-stanford/med-flamingo) | 2023 |
 | RaDialog | + | + | [Pellegrini et al.](https://arxiv.org/abs/2311.18681) | [GitHub](https://github.com/ChantalMP/RaDialog) | 2023 |
+| PathChat | + | - | [Lu et al.](https://www.nature.com/articles/s41586-024-07618-3) | [GitHub](https://github.com/fedshyvana/pathology_mllm_training) | 2024 |
 
 
 ### The list of Medical Vision-Language Datasets
@@ -57,6 +58,7 @@ of medical VLMs.
 | VQA-Med 2021 | - | + | [Ionescu et al.](https://link.springer.com/chapter/10.1007/978-3-030-85251-1_23) | [GitHub](https://github.com/abachaa/VQA-Med-2021) |
 | EndoVis 2017 | - | + | [Allan et al.](https://arxiv.org/abs/1902.06426) | [GitHub](https://github.com/longbai1006/Surgical-VQLA) |
 | EndoVis 2018 | - | + | [Allan et al.](https://arxiv.org/abs/2001.11190) | image frames in [Challenge](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/Data/) and the rest on [GitHub](https://github.com/longbai1006/Surgical-VQLA?tab=readme-ov-file) |
+| PathQABench-Public | - | + | [Lu et al.](https://www.nature.com/articles/s41586-024-07618-3) | [GitHub](https://github.com/fedshyvana/pathology_mllm_training) |
 
 
 ### Citation
