@@ -63,12 +63,16 @@ of medical VLMs.
 
 ### Citation
 ```
-@misc{hartsock2024visionlanguage,
-      title={Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review}, 
-      author={Iryna Hartsock and Ghulam Rasool},
-      year={2024},
-      eprint={2403.02469},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{Hartsock2024,
+  title={Vision-language models for medical report generation and visual question answering: a review},
+  author={Hartsock, Iryna and Rasool, Ghulam},
+  journal={Frontiers in Artificial Intelligence},
+  volume={7},
+  pages={1430984},
+  year={2024},
+  publisher={Frontiers Media SA},
+  doi={10.3389/frai.2024.1430984},
+  url={https://www.frontiersin.org/articles/10.3389/frai.2024.1430984/full}
 }
+
 ```
