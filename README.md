@@ -34,6 +34,7 @@ of medical VLMs.
 | MUMC | + | - | [Li et al.](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_36) | [GitHub](https://github.com/pengfeiliHEU/MUMC) | 2023 |
 | Med-Flamingo | + | - | [Moor et al.](https://arxiv.org/abs/2307.15189) | [GitHub](https://github.com/snap-stanford/med-flamingo) | 2023 |
 | RaDialog | + | + | [Pellegrini et al.](https://arxiv.org/abs/2311.18681) | [GitHub](https://github.com/ChantalMP/RaDialog) | 2023 |
+| RaDialog-v2 | + | + | [Pellegrini et al.](https://arxiv.org/abs/2311.18681) | [GitHub](https://github.com/ChantalMP/RaDialog_v2); [Hugging Face](https://huggingface.co/ChantalPellegrini/RaDialog-interactive-radiology-report-generation) | 2024 |
 | PathChat | + | - | [Lu et al.](https://www.nature.com/articles/s41586-024-07618-3) | [GitHub](https://github.com/fedshyvana/pathology_mllm_training) | 2024 |
 
 
