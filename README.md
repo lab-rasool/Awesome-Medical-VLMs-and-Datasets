@@ -1,6 +1,6 @@
 ## Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)
 
-[Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review](https://arxiv.org/abs/2403.02469) is the comprehensive review that includes:
+[Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1430984/full) is the comprehensive review that includes:
 
 * the latest publicly available VLMs specifically designed for medical RG and VQA;
 * the essential background on computer vision, natural
